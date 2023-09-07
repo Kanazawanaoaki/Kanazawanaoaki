@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Naoaki
+
+- 🌱 I'm a Ph.D. student at The University of Tokyo.
+- 👨‍🎓 My major is mechanical and information engineering.
+
+For more information, please visit my web page below.  
+https://kanazawanaoaki.github.io/
 
 <!--
 **Kanazawanaoaki/Kanazawanaoaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
